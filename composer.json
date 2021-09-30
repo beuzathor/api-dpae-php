@@ -1,5 +1,5 @@
 {
-    "name": "r3mfr/api-dpae-php",
+    "name": "beuzathor/api-dpae-php",
     "description": "Librairie PHP facilitant l'intégration de l'API DPAE https://dpae.r3m.fr",
     "type": "library",
     "require": {
