@@ -3,10 +3,10 @@
     "description": "Librairie PHP facilitant l'intégration de l'API DPAE https://dpae.r3m.fr",
     "type": "library",
     "require": {
-        "php": "^8.1",
+        "php": "^8.0",
         "ext-json": "*",
-        "symfony/http-client": "^4.4",
-        "nyholm/psr7-server": "^0.4",
+        "symfony/http-client": "^5.0",
+        "nyholm/psr7-server": "^1.0",
         "nyholm/psr7": "^1.2",
         "psr/http-client": "^1.0",
         "psr/log": "^1.1"
